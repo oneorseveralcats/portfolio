@@ -1,6 +1,6 @@
 # Portfolio
 
-[NixOS Configuration](https://codeberg.org/oosc/nixos)
+[NixOS Configuration](https://github.com/oneorseveralcats/nixos)
 
 - **Description**: The configuration system I use for all of my computers whether
   they be laptop, desktop, or server. The configuration system has a bunch of of
